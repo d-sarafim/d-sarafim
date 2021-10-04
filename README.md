@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d-sarafim
-- 👀 I’m interested in java, js cloud development and machine learning algorithms
+- 👀 I’m interested in java, js, cloud development and machine learning algorithms
 - 🌱 I’m currently learning machine learning in a MSc program
-- 💞️ I’m looking to collaborate on projects that are related to the fields of interest liste above.
+- 💞️ I’m looking to collaborate on projects that are related to the fields of interest listed above.
 - 📫 You can find me on linked-in: [/in/diego-santana-sarafim](https://www.linkedin.com/in/diego-santana-sarafim/)
 
 
